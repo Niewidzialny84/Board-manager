@@ -8,7 +8,7 @@ Initial idea was to use some database engine e.g. PostgreSQL, but for mainly qui
 
 All of that is simplified version in image below.
 
-[image](/docs/initial_idea.png)
+![initial_concept](/docs/initial_idea.png)
 
 ## Implemented version
 
